@@ -24,8 +24,8 @@ github_username:  outten
 
 # Build settings
 #markdown: kramdown
-#theme: minima
-theme: minimal-mistakes-jekyll
+theme: minima
+#theme: minimal-mistakes-jekyll
 
 minimal_mistakes_skin    : "dirt" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -71,7 +71,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: home
       author_profile: true
       
 # Site Footer
@@ -123,24 +123,3 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-author:
-  name             : "Todd Outten"
-  avatar           : "/assets/images/jess-bailey-dZuG2-ZhONU-unsplash.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Entrepreneur & Engineer"
-  location         : "Philadelphia, PA"
-  email            :
-  links:
-    - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/in/outten/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ToddOutten"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/outten"
-
-# Social Sharing
-twitter:
-  username               : ToddOutten

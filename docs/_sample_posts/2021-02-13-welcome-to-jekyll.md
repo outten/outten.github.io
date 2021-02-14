@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title:  "Welcome to Jekyll!"
 date:   2021-02-13 21:03:50 -0500
 categories: jekyll update
